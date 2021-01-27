@@ -6,3 +6,4 @@ http://www.red3d.com/cwr/steer/gdc99/
 http://www.codeproject.com/KB/game/AI_Life.aspx
 http://www.shiffman.net/teaching/nature/steering/
 https://github.com/idmillington/aicore
+test
